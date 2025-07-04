@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-user_panel-c01ff63b-4d7e-47ab-b361-b174c33590e3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("user_panel")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+670b49f5d8d21e59040d389449ffdb18e349be12")]
 [assembly: System.Reflection.AssemblyProductAttribute("user_panel")]

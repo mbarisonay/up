@@ -1,8 +1,6 @@
 ﻿@model user_panel.Data.Cabin
-
 @{
     ViewData["Title"] = "Create Reservation";
-    // Generate time slots for the dropdown (e.g., 9:00, 10:00... 17:00)
     var timeSlots = Enumerable.Range(9, 9).Select(h => new SelectListItem
     {
         Value = h.ToString(),
@@ -41,10 +39,10 @@
             </div>
 
             <div class="d-grid">
-                <button type="submit" class="btn btn-primary btn-lg">Confirm Booking for @Model.PricePerHour.ToString("C")</button>
+                <button type="submit" class="btn btn-primary btn-lg">Confirm Reservation for @Model.PricePerHour.ToString("C")</button>
             </div>
             <div class="text-center mt-3">
-                <a asp-action="Index">Back to Cabin List</a>
+                <a asp-action="Index">Back to Location List</a>
             </div>
         </form>
     </div>

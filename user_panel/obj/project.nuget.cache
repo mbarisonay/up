@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bw6vG/Z8EQc=",
+  "dgSpecHash": "fE5hrFa0pcM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mbari\\Desktop\\panel\\user_panel\\user_panel.csproj",
+  "projectFilePath": "C:\\Users\\mbari\\source\\repos\\up\\user_panel\\user_panel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mbari\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mbari\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

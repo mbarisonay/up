@@ -465,3 +465,14 @@ C:\Users\mbari\Desktop\panel\user_panel\obj\Debug\net8.0\user_panel.pdb
 C:\Users\mbari\Desktop\panel\user_panel\obj\Debug\net8.0\user_panel.genruntimeconfig.cache
 C:\Users\mbari\Desktop\panel\user_panel\obj\Debug\net8.0\ref\user_panel.dll
 C:\Users\mbari\Desktop\panel\user_panel\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.csproj.AssemblyReference.cache
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.AssemblyInfoInputs.cache
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.AssemblyInfo.cs
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.csproj.CoreCompileInputs.cache
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.RazorAssemblyInfo.cache
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.RazorAssemblyInfo.cs
+C:\Users\mbari\source\repos\up\user_panel\obj\Debug\net8.0\user_panel.sourcelink.json
