@@ -10,6 +10,7 @@ namespace user_panel.Data
         {
         }
 
+
         public DbSet<Cabin> Cabins { get; set; }
         public DbSet<Booking> Bookings { get; set; }
 

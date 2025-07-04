@@ -71,7 +71,7 @@ namespace user_panel.Controllers
 
             // 3. CRITICAL: Check for overlapping bookings for this specific cabinId
             var isSlotTaken = await _context.CabinReservations
-                .AnyAsync(r => r.Location == cabin.Location && // We still check by location to be safe
+                .AnyAsync(r => r.Location == cabin.Location && 
                                bookingStartTime < r.EndTime &&
                                bookingEndTime > r.StartTime);
 
